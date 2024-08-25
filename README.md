@@ -54,5 +54,5 @@ I am a dedicated Full Stack Developer with a proven track record in teamwork, co
 
 </td></tr></table>  
 <br/>
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=ramkumar-kollimalayan&&style=flat-square)  
-<br/>
